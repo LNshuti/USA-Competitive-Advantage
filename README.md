@@ -3,7 +3,6 @@ Use data from the World Bank, Federal Reserve and Altas for Economic Complexity 
 
 
 |  | China  | United States |
-|------|---------------------|----------------------------------|----------------------------------|--------------------------------------------|
 | Year | Population of China | Annual Growth Rate of China (%) | Population of the United States | Annual Growth Rate of the United States (%) |
 |------|---------------------|----------------------------------|----------------------------------|--------------------------------------------|
 | 2010 | 1,359,859,000       | 0.53                             | 309,349,000                       | 0.70                                       |
