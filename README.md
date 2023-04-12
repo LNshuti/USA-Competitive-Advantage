@@ -20,7 +20,6 @@ Use data from the World Bank, Federal Reserve and Altas for Economic Complexity 
 ----------------------
 
 **China -- EU**
----------------------------------
 
 ![image](https://user-images.githubusercontent.com/13305262/231326784-68aa4684-0841-43e4-a0ae-49e485eff4c9.png)
 
