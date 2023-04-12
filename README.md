@@ -25,3 +25,5 @@ Use data from the World Bank, Federal Reserve and Altas for Economic Complexity 
 ![image](https://user-images.githubusercontent.com/13305262/231326784-68aa4684-0841-43e4-a0ae-49e485eff4c9.png)
 
 **US -- EU**
+
+![image](https://user-images.githubusercontent.com/13305262/231327133-402ab1f8-7bf7-4aa5-9642-2944e22aad09.png)
