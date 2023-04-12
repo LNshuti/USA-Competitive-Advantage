@@ -31,3 +31,8 @@ Use data from the World Bank, Federal Reserve and Altas for Economic Complexity 
 
 **Exports**
 -----------
+
+**EU -- US**
+
+![image](https://user-images.githubusercontent.com/13305262/231329056-a465b243-d92c-473f-a877-d3b02bb3652a.png)
+
