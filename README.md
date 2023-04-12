@@ -16,6 +16,8 @@ Use data from the World Bank, Federal Reserve and Altas for Economic Complexity 
 | 2018 | 1,390,094,000       | 0.29                             | 327,170,000                       | 0.45                                       |
 | 2019 | 1,397,175,000       | 0.51                             | 328,240,000                       | 0.33                
 
+![image](https://user-images.githubusercontent.com/13305262/231587556-d64f792e-15fb-472a-a17c-ea6d762a4ce8.png)
+
 **Trade relationship**
 ----------------------
 
