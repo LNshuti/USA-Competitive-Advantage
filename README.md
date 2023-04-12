@@ -16,3 +16,7 @@ Use data from the World Bank, Federal Reserve and Altas for Economic Complexity 
 | 2018 | 1,390,094,000       | 0.29                             | 327,170,000                       | 0.45                                       |
 | 2019 | 1,397,175,000       | 0.51                             | 328,240,000                       | 0.33                
 
+**China -- EU Trade relationship**
+---------------------------------
+
+![image](https://user-images.githubusercontent.com/13305262/231326784-68aa4684-0841-43e4-a0ae-49e485eff4c9.png)
