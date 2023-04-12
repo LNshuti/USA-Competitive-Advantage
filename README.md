@@ -40,4 +40,6 @@ Use data from the World Bank, Federal Reserve and Altas for Economic Complexity 
 
 ![image](https://user-images.githubusercontent.com/13305262/231329260-877b3c33-93d5-4035-bd70-be99c07bbc80.png)
 
-
+## References
+-------------
+1. https://atlas.cid.harvard.edu/
