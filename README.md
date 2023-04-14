@@ -60,22 +60,16 @@ plt.show()
 
 **Imports**
 -----------
-**China -- EU**
 
 ![image](https://user-images.githubusercontent.com/13305262/231326784-68aa4684-0841-43e4-a0ae-49e485eff4c9.png)
 
-**US -- EU**
 
 ![image](https://user-images.githubusercontent.com/13305262/231327133-402ab1f8-7bf7-4aa5-9642-2944e22aad09.png)
 
 **Exports**
 -----------
 
-**EU -- US**
-
 ![image](https://user-images.githubusercontent.com/13305262/231329056-a465b243-d92c-473f-a877-d3b02bb3652a.png)
-
-**EU -- China**
 
 ![image](https://user-images.githubusercontent.com/13305262/231329260-877b3c33-93d5-4035-bd70-be99c07bbc80.png)
 
