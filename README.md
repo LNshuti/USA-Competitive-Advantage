@@ -55,7 +55,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/13305262/231587556-d64f792e-15fb-472a-a17c-ea6d762a4ce8.png)
 
-**Trade relationship**
+**Trade relationships**
 ----------------------
 
 **Imports**
