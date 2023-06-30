@@ -1,59 +1,42 @@
-# USA-Competitive-Advantage
-Use data from the World Bank, Federal Reserve and Altas for Economic Complexity to Trade relationships between the US and Allies. 
+# USA-China Great Power Competition
 
+## Birth-Death Model for Population Demographics: United States & China
 
-```python
-# Compare USA and China Demographics
-import pandas as pd
-from io import StringIO
-import matplotlib.pyplot as plt
-import seaborn as sns
+### Overview
 
-# Set up seaborn with colorblind-friendly palette and larger font size
-sns.set(style="whitegrid", palette="colorblind", font_scale=1.5)
+The birth-death model, frequently used in ecology and epidemiology, can also be applied to demography to study changes in population over time. In the context of demographic analysis, the birth-death model allows us to track and predict changes in population size. We calculate the net change in population by subtracting the number of deaths from the number of births in a given period.
 
-data = """
-Year,Population of China,Annual Growth Rate of China (%),Population of the United States,Annual Growth Rate of the United States (%)
-2010,1359859000,0.53,309349000,0.70
-2011,1364921000,0.37,311718000,0.77
-2012,1368558000,0.27,314058000,0.75
-2013,1371495000,0.21,316204000,0.68
-2014,1375388000,0.28,318563000,0.74
-2015,1378665000,0.24,320897000,0.73
-2016,1381963000,0.24,323128000,0.70
-2017,1386050000,0.30,325719000,0.80
-2018,1390094000,0.29,327170000,0.45
-2019,1397175000,0.51,328240000,0.33
-"""
-
-# Load the data into a pandas DataFrame
-data_string = StringIO(data)
-df = pd.read_csv(data_string)
-
-# Plot the line chart
-fig, ax1 = plt.subplots(figsize=(12, 6))
-
-ax1.plot(df['Year'], df['Population of China'], label='Population of China', linewidth=3)
-ax1.plot(df['Year'], df['Population of the United States'], label='Population of the United States', linewidth=3)
-ax1.set_xlabel('Year')
-ax1.set_ylabel('Population')
-
-ax2 = ax1.twinx()
-ax2.plot(df['Year'], df['Annual Growth Rate of China (%)'], label='Annual Growth Rate of China (%)', linestyle='--', linewidth=3)
-ax2.plot(df['Year'], df['Annual Growth Rate of the United States (%)'], label='Annual Growth Rate of the United States (%)', linestyle='--', linewidth=3)
-ax2.set_ylabel('Annual Growth Rate (%)')
-
-# Combine legends
-lines, labels = ax1.get_legend_handles_labels()
-lines2, labels2 = ax2.get_legend_handles_labels()
-ax2.legend(lines + lines2, labels + labels2, loc='upper left')
-
-# Set the title and show the plot
-plt.title('Population and Annual Growth Rate Comparison\nChina vs United States (2010-2019)')
-plt.show()
+```
+Net Population Change = Births - Deaths
 ```
 
-![image](https://user-images.githubusercontent.com/13305262/231587556-d64f792e-15fb-472a-a17c-ea6d762a4ce8.png)
+This simple model is a fundamental part of population projection methods, contributing to our understanding of demographic trends, social changes, and policy-making implications.
+
+#### United States
+
+According to historical data, the United States has seen significant demographic changes. In 1950, the population was approximately 150 million, which rose to around 331 million by 2020. The annual birth rate decreased from 24.1 (per 1000 people) in 1950 to around 11.6 by 2020, while the death rate has seen lesser changes.
+
+```python
+# Example calculations for the year 2020
+births = US_population * birth_rate / 1000
+deaths = US_population * death_rate / 1000
+net_population_change = births - deaths
+```
+
+#### China
+
+China, the world's most populous country, had a population of approximately 551 million in 1950, which surged to over 1.4 billion by 2020. Birth rates have varied due to factors such as the One-Child policy, declining from 36.9 (per 1000 people) in 1950 to roughly 11.3 by 2020. Death rates have also decreased over time.
+
+```python
+# Example calculations for the year 2020
+births = China_population * birth_rate / 1000
+deaths = China_population * death_rate / 1000
+net_population_change = births - deaths
+```
+
+#### Conclusion
+
+The birth-death model provides a simplified way to study population changes over time. We can better understand past demographic changes and anticipate future trends by tracking historical birth and death rates. However, remember that this model does not consider migration, which can significantly influence a country's population dynamics. Furthermore, societal, cultural, and policy changes, like China's One-Child policy, can lead to abrupt shifts in birth and death rates.
 
 **Trade relationships**
 ----------------------
