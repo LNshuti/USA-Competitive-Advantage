@@ -2,6 +2,10 @@
 
 ## Birth-Death Model for Population Demographics: United States & China
 
+**Figure N. Death Rate, crude( per 1000 people)**
+![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/3fe117c8-e1b5-41bb-9a5d-084c43c6a9c6)
+
+
 ### Overview
 
 The birth-death model, frequently used in ecology and epidemiology, can also be applied to demography to study changes in population over time. In the context of demographic analysis, the birth-death model allows us to track and predict changes in population size. We calculate the net change in population by subtracting the number of deaths from the number of births in a given period.
