@@ -3,7 +3,8 @@
 ## Birth-Death Model for Population Demographics: United States & China
 
 **Figure N. Death Rate, crude( per 1000 people)**
-![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/3fe117c8-e1b5-41bb-9a5d-084c43c6a9c6)
+
+![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/423d7fed-3e24-470b-94a3-26b34822b595)
 
 
 ### Overview
