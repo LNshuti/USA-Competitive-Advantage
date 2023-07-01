@@ -1,15 +1,12 @@
 import streamlit as st 
-from openbb_terminal.sdk import openbb
 
 def main():
 
     st.set_page_config(layout="wide")
 
-    st.title("OpenBB Terminal")
+    st.title("Great Power Competition: US & China")
 
-    st.write(''' An example app showing how OPENBB works''')
-
-    st.write(f"OpenBB version: {openbb.__version__}")
+    st.write(''' Summarize economic, societal and demographic indicators for the great powers of the 21st century.''')
 
 
 main()
