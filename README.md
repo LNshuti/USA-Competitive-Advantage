@@ -2,7 +2,7 @@
 
 ## Birth-Death Model for Population Demographics: United States & China
 
-**Death Rate, crude( per 1000 people)**
+**Figure 1. Death Rate, crude( per 1000 people)**
 
 ![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/423d7fed-3e24-470b-94a3-26b34822b595)
 
@@ -29,7 +29,8 @@ deaths = US_population * death_rate / 1000 = (331 million * 10.44)/1000 =  3.46 
 net_population_change = births - deaths = 3.84 - 3.46 = 0.38 million
 ```
 
-##### Immigration
+**Figure 2. Net Migration**
+![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/ca119e3a-bd88-405c-8e12-ee1b8ee841a0)
 
 
 #### China
