@@ -18,10 +18,13 @@ In 1950, the United States population was approximately 150 million, which rose 
 
 ```python
 # Example calculations for the year 2020
-births = US_population * birth_rate / 1000
-deaths = US_population * death_rate / 1000
-net_population_change = births - deaths
+births = US_population * birth_rate / 1000 = (331 million * 11.6)/1000 = 3.84 million
+deaths = US_population * death_rate / 1000 = (331 million * 10.44)/1000 =  3.46 million
+net_population_change = births - deaths = 3.84 - 3.46 = 0.38 million
 ```
+
+##### Immigration
+
 
 #### China
 
@@ -33,6 +36,9 @@ births = China_population * birth_rate / 1000
 deaths = China_population * death_rate / 1000
 net_population_change = births - deaths
 ```
+
+##### Immigration
+
 **Trade relationships**
 ----------------------
 
@@ -54,3 +60,4 @@ net_population_change = births - deaths
 ## References
 -------------
 1. https://atlas.cid.harvard.edu/
+2. American Community Survey. 2021. Accessed July 1st 2023. https://data.census.gov/table?q=DP02
