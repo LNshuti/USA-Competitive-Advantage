@@ -68,5 +68,5 @@ net_population_change = births - deaths = 15.82 - 9.8 = 6.02 million
 
 ## References
 -------------
-1. https://atlas.cid.harvard.edu/
+1. Atlas of Economic Complexity by the Growth lab at Harvard University. https://atlas.cid.harvard.edu/
 2. American Community Survey. 2021. Accessed July 1st 2023. https://data.census.gov/table?q=DP02
