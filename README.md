@@ -17,7 +17,7 @@ This simple model is a fundamental part of population projection methods, contri
 In 1950, the United States population was approximately 150 million, which rose to around 331 million by 2020. The annual birth rate decreased from 24.1 (per 1000 people) in 1950 to around 11.6 by 2020, while the death rate has seen lesser changes.
 
 ```python
-# Example calculations for the year 2020
+# 2020
 births = US_population * birth_rate / 1000 = (331 million * 11.6)/1000 = 3.84 million
 deaths = US_population * death_rate / 1000 = (331 million * 10.44)/1000 =  3.46 million
 net_population_change = births - deaths = 3.84 - 3.46 = 0.38 million
@@ -31,10 +31,11 @@ net_population_change = births - deaths = 3.84 - 3.46 = 0.38 million
 China, the world's most populous country, had a population of approximately 551 million in 1950, which surged to over 1.4 billion by 2020. Birth rates have varied due to factors such as the One-Child policy, declining from 36.9 (per 1000 people) in 1950 to roughly 11.3 by 2020. Death rates have also decreased over time.
 
 ```python
-# Example calculations for the year 2020
-births = China_population * birth_rate / 1000
-deaths = China_population * death_rate / 1000
-net_population_change = births - deaths
+# 2020
+births = China_population * birth_rate / 1000 = (1.4 billion * 11.3) / 1000 = 15.82 million
+deaths = China_population * death_rate / 1000 = (1.4 billion * 7) / 1000 = 9.8 million
+net_population_change = births - deaths = 15.82 - 9.8 = 6.02 million
+
 ```
 
 ##### Immigration
