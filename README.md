@@ -30,6 +30,7 @@ net_population_change = births - deaths = 3.84 - 3.46 = 0.38 million
 ```
 
 **Figure 2. Net Migration**
+
 ![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/ca119e3a-bd88-405c-8e12-ee1b8ee841a0)
 
 
