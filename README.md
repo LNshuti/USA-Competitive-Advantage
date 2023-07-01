@@ -33,11 +33,6 @@ births = China_population * birth_rate / 1000
 deaths = China_population * death_rate / 1000
 net_population_change = births - deaths
 ```
-
-#### Conclusion
-
-The birth-death model provides a simplified way to study population changes over time. We can better understand past demographic changes and anticipate future trends by tracking historical birth and death rates. However, remember that this model does not consider migration, which can significantly influence a country's population dynamics. Furthermore, societal, cultural, and policy changes, like China's One-Child policy, can lead to abrupt shifts in birth and death rates.
-
 **Trade relationships**
 ----------------------
 
