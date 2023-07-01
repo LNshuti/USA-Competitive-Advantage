@@ -14,7 +14,7 @@ This simple model is a fundamental part of population projection methods, contri
 
 #### United States
 
-According to historical data, the United States has seen significant demographic changes. In 1950, the population was approximately 150 million, which rose to around 331 million by 2020. The annual birth rate decreased from 24.1 (per 1000 people) in 1950 to around 11.6 by 2020, while the death rate has seen lesser changes.
+In 1950, the United States population was approximately 150 million, which rose to around 331 million by 2020. The annual birth rate decreased from 24.1 (per 1000 people) in 1950 to around 11.6 by 2020, while the death rate has seen lesser changes.
 
 ```python
 # Example calculations for the year 2020
