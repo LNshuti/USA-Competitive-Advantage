@@ -47,7 +47,7 @@ net_population_change = births - deaths = 15.82 - 9.8 = 6.02 million
 
 **Figure 3. GDP, PPP (current international $)**
 
-![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/cf7e675a-773e-4de0-a01a-8654adf03826)
+![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/dfe5d8c3-5b96-47dd-959a-6fe971ee8cc2)
 
 **Trade relationships**
 ----------------------
