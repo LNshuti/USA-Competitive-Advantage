@@ -43,10 +43,11 @@ China, the world's most populous country, had a population of approximately 551 
 births = China_population * birth_rate / 1000 = (1.4 billion * 11.3) / 1000 = 15.82 million
 deaths = China_population * death_rate / 1000 = (1.4 billion * 7) / 1000 = 9.8 million
 net_population_change = births - deaths = 15.82 - 9.8 = 6.02 million
-
 ```
 
-##### Immigration
+**Figure 3. GDP, PPP (current international $)**
+
+![image](https://github.com/LNshuti/USA-Competitive-Advantage/assets/13305262/cf7e675a-773e-4de0-a01a-8654adf03826)
 
 **Trade relationships**
 ----------------------
